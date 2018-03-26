@@ -1,2 +1,3 @@
 server.port: 100
 security.sessions: free
+keyserver.name: ${deneme}
