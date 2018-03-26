@@ -1,4 +1,4 @@
 {
 "key":"value"
-"port":${server.port}
+"port":"${server.port}"
 }
